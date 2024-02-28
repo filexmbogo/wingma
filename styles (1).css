@@ -1,0 +1,36 @@
+.dropdown-menu a{
+    color: blue;
+    background-color: rgb(249, 247, 245);
+    font-size: 1.3rem;
+}
+h1{color: red;}
+body{background-color: black;}
+#navbarSupportedContent{margin-left: 1%;}
+#navbarSupportedContent ul li a{
+display:  inline-block;
+}
+#logoimg{
+		border-radius:  50%;
+}
+#branding{
+		display: block;
+		text-align: center;
+}
+
+#first{padding-left: 1%;
+		padding-right: 1%;
+}
+.card {
+		text-align: center;
+		
+		margin-right::0%;
+		background-image: linear-gradient(white,grey);
+		background-repeat:no-repeat;
+		background-size: cover;
+		margin-top: 3.7em;
+		margin-left: 10px;}
+		.card p{font-size: 1.2rem}
+		
+		
+
+.card-body{margin-top: -10px}
