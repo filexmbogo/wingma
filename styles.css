@@ -1,0 +1,11 @@
+.dropdown-menu a{
+    color: blue;
+    background-color: rgb(249, 247, 245);
+    font-size: 1.3rem;
+}
+h3{color: red;}
+body{background-color: black;}
+#navbarSupportedContent{margin-left: 13%;}
+#navbarSupportedContent ul li a{
+display:  inline-block;
+}
